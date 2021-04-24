@@ -1,0 +1,23 @@
+h1 {
+    color:aqua
+}
+
+.header{
+    background-color: rgb(255, 0, 106);
+    display : flex;
+    justify-content: space-between;
+    border:solid
+}
+.king{
+    background: chartreuse;
+    display: flex;
+    justify-content:space-around;
+    border:solid
+}
+.raj{
+    background-color: black;
+    display : flex;
+    justify-content:space-evenly ;
+    flex-wrap: wrap;
+    border:solid
+}
